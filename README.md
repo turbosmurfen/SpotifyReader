@@ -1,2 +1,2 @@
 # SpotifyReader
-Spotify Offline file reader
+Just a simple testing enviroment to read from Spotify offline file.
